@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">5 ways to make the Earth greener</string>
+    <color name="text_color">#006600</color>
+    <color name="background_color">#99FF66</color>
+    <string name="app_description">In merely a few hundred years, we have been actively destroying
+        the beautiful green Earth that was created billion of years ago. If you feel the same and
+        would like to make a change, start with yourself. The following are 5 ways to make the
+        Earth green:
+    </string>
+    <string name="point_1">1. Unplug Unused Electronics!</string>
+    <string name="point_1_button">Tell me more?</string>
+    <string name="point_2">2. Recycle</string>
+    <string name="point_2_button">How should I start?</string>
+    <string name="point_3">3. Fix Leaks</string>
+    <string name="point_3_button">Does that really matter?</string>
+    <string name="point_4">4. Properly dispose off Hazardous waste</string>
+    <string name="point_4_button">How?</string>
+    <string name="point_5">5. Fresh, Local, Organic!</string>
+    <string name="point_5_button">What does that mean?</string>
+
+</resources>
