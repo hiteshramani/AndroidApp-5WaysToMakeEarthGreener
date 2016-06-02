@@ -9,13 +9,50 @@
     </string>
     <string name="point_1">1. Unplug Unused Electronics!</string>
     <string name="point_1_button">Tell me more?</string>
+    <string name="point_1_descrption">Did you know that a cell phone charger can still consume electricity
+                 even when a phone isn\'t connected to it? In the average home, 25% of the electricity
+                 used to power home electronics is consumed while the products are turned off. To
+                 stop these \"phantom\" loads when devices are not in use, unplug them or connect
+                 them to power strips, which can then be turned off.</string>
+
     <string name="point_2">2. Recycle</string>
     <string name="point_2_button">How should I start?</string>
+    <string name="point_2_description">"By recycling materials such as aluminum cans, newspapers, and glass "
+                "jars, you can save energy and landfill space, conserve natural resources, and also "
+                "prevent pollution. Recycling one ton of paper saves 17 mature trees, 7,000 gallons "
+                "of water, three cubic yards of landfill space, two barrels of oil, and 4,100 "
+                "kilowatt-hours of electricity – enough energy to power the average US home for "
+                "five months. Visit our recycling directory to find recycling opportunities in your " 
+                "community."</string>
+
     <string name="point_3">3. Fix Leaks</string>
     <string name="point_3_button">Does that really matter?</string>
+    <string name="point_3_description">"A faucet that leaks one drip per second can waste more than 3,000 "
+                "gallons of water each year. A leaky toilet can waste up to 200 gallons of water "
+                "every day. To determine whether your toilet has a leak, place a drop of food "
+                "coloring in the tank; if the color appears in the bowl without flushing, you have "
+                "a leak. To find and fix air leaks, ENERGY STAR offers a free guide."</string>
+
+
     <string name="point_4">4. Properly dispose off Hazardous waste</string>
     <string name="point_4_button">How?</string>
+    <string name="point_4_description">"Electronics, CFLs, certain batteries, and other household hazardous "
+                "wastes contain toxic materials so they should not be sent to landfills where they "
+                "can pollute the surrounding land and water. A single computer monitor may contain "
+                "4 pounds of lead as well as other toxic heavy metals. Many companies and municipal "
+                "governments offer free collection programs, and in some cases you can even get "
+                "paid to recycle old electronics."</string>
+
+
     <string name="point_5">5. Fresh, Local, Organic!</string>
     <string name="point_5_button">What does that mean?</string>
+    <string name="point_5_description">"Food travels an average of 1,200 miles before it reaches your plate,"
+                " so buy locally produced items to save energy and prevent emissions from going into"
+                " the air. Visit USDA.gov to find a farmers market in your area. Also, choose fresh "
+                "foods instead of frozen, since frozen foods require 10 times more energy to "
+                "produce. Finally, organic foods are both good for the environment and good for "
+                "your health since synthetic hormones, most conventional pesticides, as well as "
+                "other potentially hazardous practices are not used."</string>
+
 
 </resources>
